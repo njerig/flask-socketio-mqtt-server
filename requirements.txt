@@ -62,7 +62,7 @@ requests==2.18.4
 scipy==0.13.0b1
 shutilwhich==1.1.0
 six==1.10.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv-clone==0.2.6
 xattr==0.6.4
 zope.interface==4.1.1
